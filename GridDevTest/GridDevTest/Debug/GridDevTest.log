@@ -1,0 +1,6 @@
+﻿  GridDevTest.cpp
+c:\users\computing\documents\visual studio 2015\projects\griddevtest\griddevtest\griddevtest.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\computing\documents\visual studio 2015\projects\griddevtest\griddevtest\griddevtest.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\computing\documents\visual studio 2015\projects\griddevtest\griddevtest\griddevtest.cpp(110): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\computing\documents\visual studio 2015\projects\griddevtest\griddevtest\griddevtest.cpp(110): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\Computing\Documents\Visual Studio 2015\Projects\GridDevTest\Debug\GridDevTest.exe for writing
